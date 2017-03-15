@@ -1,0 +1,6 @@
+framework module Pods_SwiftQQMusic {
+  umbrella header "Pods-SwiftQQMusic-umbrella.h"
+
+  export *
+  module * { export * }
+}

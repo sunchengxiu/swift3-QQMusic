@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "010DBDB2BBEA186050D3E3D17F0BBFEF55AFE464",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "010DBDB2BBEA186050D3E3D17F0BBFEF55AFE464" : 9223372036854775807,
+    "B176A08F5D0768654D1FFB79F163D2D20FF89582" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E455C696-10B2-4E64-B750-03F98AA4302D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "010DBDB2BBEA186050D3E3D17F0BBFEF55AFE464" : "SwiftQQMusic\/",
+    "B176A08F5D0768654D1FFB79F163D2D20FF89582" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SwiftQQMusic",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SwiftQQMusic.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/sunchengxiu\/SwiftQQMusic.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "010DBDB2BBEA186050D3E3D17F0BBFEF55AFE464"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/sunchengxiu\/swift3.0QQ-.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B176A08F5D0768654D1FFB79F163D2D20FF89582"
+    }
+  ]
+}
